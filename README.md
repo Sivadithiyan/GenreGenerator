@@ -1,8 +1,4 @@
-# AttendanceRegister
+# Genre Generator
 
-350
-105
-183
-370
-333
-334
+Goal: To create a web page which can generate thousands of combinations of music genre names to inspire producers
+
